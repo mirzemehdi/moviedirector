@@ -3,12 +3,17 @@
  Android app  that you search a movie/serie name and   
  get detailed informations like imdbRating,actors,awards,genre and etc   
  
- Some pictures from app  
+ Some pictures from an app  
 
 
 
   
 <img src="images/screenshot2.jpeg" alt="screenshot1" height="50%" width="40%">"  "<img src="images/screenshot1.jpeg" alt="screenshot2" height="50%" width="40%">
+
+
+### Installing
+apk link:  https://github.com/mirzemehdi/moviedirector/raw/master/apk/moviedirector.apk
+
 
 ## Used Libraries
 
